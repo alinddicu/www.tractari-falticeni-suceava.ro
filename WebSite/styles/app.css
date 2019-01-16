@@ -9,6 +9,11 @@ h1, div#phone-number {
     border-radius: 3px;
 }
 
+div#phone-number img {
+    max-width: 75%;
+    max-height: 75%;
+}
+
 img.image-vertical, img.image-horizontal {
     border: 1px;
     border-style: solid;
