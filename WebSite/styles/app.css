@@ -1,3 +1,20 @@
-div#images-container, div#titles {
+div#images-container, div#titles, div#phone-number {
     text-align: center;
+}
+
+img.image-vertical, img.image-horizontal {
+    border: 1px;
+    border-style: solid;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+img.image-vertical {
+    width: 23%;
+    height: 23%;
+}
+
+img.image-horizontal {
+    width: 30%;
+    height: 30%;
 }
