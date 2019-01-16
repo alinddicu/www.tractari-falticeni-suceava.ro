@@ -12,11 +12,17 @@ h1, div#phone-number {
     background-color: #EEE2DC;
 }
 
+p.blabla {
+    background-color: #EEE2DC;
+    text-align: justify;
+    font-size: 20px;
+}
+
 div#phone-number{
     padding: 3px 3px 0 3px; 
 }
 
-h1, div#phone-number {
+h1, div#phone-number, p.blabla {
     border: 1px;
     border-style: solid;
     padding: 2px;
