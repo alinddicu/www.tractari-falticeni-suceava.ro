@@ -3,7 +3,7 @@ body {
     background-color:#EDC7B7;
 }
 
-div#images-container, div.titles, div#phone-number {
+div.images-container, div.titles, div#phone-number {
     text-align: center;
 }
 
