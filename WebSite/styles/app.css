@@ -50,3 +50,14 @@ img.image-horizontal {
     width: 30%;
     height: 30%;
 }
+
+div#copyright {
+    float: right;
+    padding: 0 10px 10px 0;
+}
+
+div#copyright a, div#copyright a:visited, div#copyright a:hover, div#copyright a:active {
+	text-decoration: none;
+    font-weight: bold;
+    color:#123C69;
+}
