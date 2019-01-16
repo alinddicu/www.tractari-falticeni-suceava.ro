@@ -1,5 +1,15 @@
+body {
+    color:black;
+    background-color:white;
+}
+
 div#images-container, div.titles, div#phone-number {
     text-align: center;
+}
+
+h1, div#phone-number {
+    text-align: center;
+    background-color: white;
 }
 
 h1, div#phone-number {
