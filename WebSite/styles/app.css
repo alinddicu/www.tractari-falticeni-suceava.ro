@@ -1,6 +1,6 @@
 body {
-    color:black;
-    background-color:white;
+    color:#123C69;
+    background-color:#EDC7B7;
 }
 
 div#images-container, div.titles, div#phone-number {
@@ -9,7 +9,11 @@ div#images-container, div.titles, div#phone-number {
 
 h1, div#phone-number {
     text-align: center;
-    background-color: white;
+    background-color: #EEE2DC;
+}
+
+div#phone-number{
+    padding: 3px 3px 0 3px; 
 }
 
 h1, div#phone-number {
