@@ -1,5 +1,12 @@
-div#images-container, div#titles, div#phone-number {
+div#images-container, div.titles, div#phone-number {
     text-align: center;
+}
+
+h1, div#phone-number {
+    border: 1px;
+    border-style: solid;
+    padding: 2px;
+    border-radius: 3px;
 }
 
 img.image-vertical, img.image-horizontal {
